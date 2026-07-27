@@ -1,0 +1,31 @@
+# Compiled binaries
+bin/
+*.exe
+*.o
+*.obj
+
+# Database files
+db/
+*.dat
+*.idx
+
+# Upload files
+uploads/
+!uploads/.gitkeep
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Temporary files
+*.tmp
+*.log
+*.bak
